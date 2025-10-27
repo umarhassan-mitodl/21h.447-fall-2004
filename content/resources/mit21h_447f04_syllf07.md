@@ -5,8 +5,6 @@ description: This syllabus provides a course description and information on grad
 file: /courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/9456357a4875579fa783a2c4adb310e5_MIT21H_447f04_syllf07.pdf
 file_size: 137371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

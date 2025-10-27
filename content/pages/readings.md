@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a list of books for purchase and reading assignments
   by class session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
